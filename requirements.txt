@@ -4,4 +4,4 @@ pandas
 numpy
 scipy
 plotly
-
+xlsxwriter
